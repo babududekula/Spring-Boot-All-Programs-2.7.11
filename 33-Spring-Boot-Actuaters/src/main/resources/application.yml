@@ -1,0 +1,15 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude:
+        - bean
+        - health
+        - metrices
+     
+  endpoint:
+    shutdown:
+      enabled: true
+server:
+  port: 2222

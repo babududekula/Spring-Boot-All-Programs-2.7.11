@@ -1,0 +1,11 @@
+babu:
+  messages:
+    welcome: Welcome To My Spring Boot Babu....
+    greet : Good After Noon Babu...
+    hello : Hello Babu Welcome To Microservices.... 
+    
+server:
+  port: 1111
+spring:
+  application:
+    name: myapp
