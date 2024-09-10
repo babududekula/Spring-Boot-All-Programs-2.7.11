@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person personId="1">
+	<personLocation>Hyd</personLocation>
+	<companyDetails>
+		<companyAddress>Hyd</companyAddress>
+		<companyId>5110</companyId>
+		<companyName>Infosys</companyName>
+	</companyDetails>
+</person>

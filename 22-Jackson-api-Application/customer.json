@@ -1,0 +1,10 @@
+{
+	"name": "Babu",
+	"address": "Hyd",
+	"personDetails": {
+		"pid": 111,
+		"pname": "Dudekula",
+		"paddress": "Nellore"
+	},
+	"customerId": 1
+}
