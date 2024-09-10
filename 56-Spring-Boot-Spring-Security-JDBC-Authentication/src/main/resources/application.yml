@@ -1,0 +1,12 @@
+server:
+  port: 5555
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:2315/babudb
+    username: root
+    password: bhavani
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+  main:
+    allow-circular-references: true

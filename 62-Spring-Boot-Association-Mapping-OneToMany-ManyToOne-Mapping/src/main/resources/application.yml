@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      maximum-pool-size: 20
+    password: bhavani
+    url: jdbc:mysql://localhost:2315/babudb
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    
+    
+server:
+  port: 2222    
